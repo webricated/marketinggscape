@@ -645,6 +645,12 @@ strong {
   background-color: #00BFA6;
 }
 
+@media (max-width: 460px) {
+  .reduce-text-size {
+    font-size: 17.5px;
+  }
+}
+
 
 /*---------------------------------------
   TOPICS               
