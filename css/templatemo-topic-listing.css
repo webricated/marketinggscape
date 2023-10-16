@@ -300,7 +300,7 @@ strong {
 
 .navbar-brand,
 .navbar-brand:hover {
-  font-size: var(--h4-font-size);
+  font-size: var(--h6-font-size);
   font-weight: var(--font-weight-bold);
   display: block;
 }
